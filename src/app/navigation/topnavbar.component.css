@@ -1,0 +1,17 @@
+.navbar{
+    font-size: 15px;
+}
+a.nav-link.active{
+    background-color: #50Ae26;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #000; 
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #50AE26;
+    border-color: #50AE26; 
+}
